@@ -1,12 +1,12 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### _{First webpage from epicodus}, {05/24/2016}_
+#### _First webpage from epicodus, 05/24/2016_
 
-#### By _**{Bo Zhao and Benjamin Heflin}**_
+#### By _**Bo Zhao and Benjamin Heflin**_
 
 ## Description
 
-_{First webpage from epicodus }_
+_First webpage from epicodus _
 
 ## Setup/Installation Requirements
 
@@ -15,18 +15,18 @@ _{First webpage from epicodus }_
 
 ## Known Bugs
 
-_{no}_
+_no_
 
 ## Support and contact details
 
-_{contact us or make a contribution to the code.}_
+_contact us or make a contribution to the code._
 
 ## Technologies Used
 
-_{HTML}_
+_HTML_
 
 ### License
 
-*{This software is licensed under the MIT license.}*
+*This software is licensed under the MIT license.*
 
-Copyright (c) 2015 **_{Bo Zhao Benjamin Heflin}_**
+Copyright (c) 2015 **_Bo Zhao Benjamin Heflin_**
